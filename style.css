@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    border-color:#e61a1a;
+}
+p{
+    text-decoration: line-through;
+}
